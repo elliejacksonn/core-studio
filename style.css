@@ -1,0 +1,23 @@
+body{
+  background-image: url(vid.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+
+}
+
+h1{
+  color:white;
+  font-family: 'Henny Penny', cursive;
+  font-family: 'Inconsolata', monospace;
+  font-size: 80px;
+
+}
+
+h2{
+  color: white;
+}
+
+<a{
+  color: white;
+}
